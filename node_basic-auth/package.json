@@ -1,0 +1,19 @@
+{
+  "name": "node_basic-auth",
+  "version": "1.0.0",
+  "description": "authorization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "autorization"
+  ],
+  "author": "Semen Zelenskiy <semen.zelenskiy@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "http": "0.0.0",
+    "tsscmp": "^1.0.6"
+  }
+}
